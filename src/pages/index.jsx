@@ -21,6 +21,7 @@ function Home() {
             <div className="text">
                 <h1>Portifolio</h1>
                 <p>Seja bem vindo ao meu portifolio</p>
+                <p>Em breve</p>
             </div>
         </header>
 
